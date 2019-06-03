@@ -1,5 +1,5 @@
 ###---------------  TURTLE BETTING RACE GAME -------------------###
-###--------------- BY VINAY KUMAR SHUKLA AND MD. AFTAB --------------- ###
+###--------------- BY VINAY KUMAR SHUKLA --------------- ###
 
 #IMPORTING MODULES 
 from tkinter import *
